@@ -1,12 +1,13 @@
-Artem Ogolets
- Contact Info:
- Telegram: @ArtemOgolets, 
- email: deadshotgg@gmail.com
+# Artem Ogolets
+ ## Contact Info:
+    Telegram: @ArtemOgolets, 
+    email: deadshotgg@gmail.com
 
-Skills :
-   Programming languages: Swift
-   Frameworks: Coredata, UiKit
-   Version control: GitHub
+ ## Skills :
+    Programming languages: Swift
+    Frameworks: Coredata, UiKit
+    Version control: GitHub
 
- English level: B1
+ ## English level: 
+    B1
 
