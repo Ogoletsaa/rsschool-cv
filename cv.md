@@ -1,7 +1,8 @@
 # Artem Ogolets
+
  ## Contact Info:
-    Telegram: @ArtemOgolets, 
-    email: deadshotgg@gmail.com
+    Telegram: @ArtemOgolets 
+    Email: deadshotgg@gmail.com
 
  ## Skills :
     Programming languages: Swift
